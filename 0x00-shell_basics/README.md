@@ -32,7 +32,7 @@
 
 **move files beginning with uppercase**
 
-**delete files ending with ~**
+**delete files ending with ~ character**
 
 **creates directory**
 
