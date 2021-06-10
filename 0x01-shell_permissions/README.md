@@ -27,3 +27,9 @@
 **Creates a directory named dir_holberton with permissions 751**
 
 **Changes the group owner**
+
+**Give permission for symbolic link**
+
+**Changes the owner if only**
+
+**Plays starwars episode IV**
